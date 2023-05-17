@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Web3 company.
+- 🔭 I’m currently working as a freelancer.
 - 🌱 I’m currently learning English, Rust and Blockchain.
 - 💬 Ask me anything on Web Development, Micro-Frontend etc.
 - 📫 How to reach me: givingwu@gmail.com
