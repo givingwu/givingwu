@@ -8,4 +8,6 @@
 
 ![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=givingwu&show_icons=true)
 
+![Gavin's Most used languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=givingwu)
+
 🚀🚀🚀🚀🚀
