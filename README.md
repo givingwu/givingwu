@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m working as a game company's full-stack engineer.
 - 🌱 I’m currently learning English, Rust, and Blockchain.
 - 💰 I’m currently focusing on trading cryptocurrencies automatically.
 - 💬 Ask me anything on Web Development, Micro-Frontend, etc.
