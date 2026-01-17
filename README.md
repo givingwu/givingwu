@@ -1,12 +1,39 @@
-### Hi there 👋
+# 你好，我是 Gavin Wu 👋
 
-- 🌱 I’m currently learning English, Rust, and Blockchain.
-- 💰 I’m currently focusing on trading cryptocurrencies automatically.
-- 💬 Ask me anything on Web Development, Micro-Frontend, etc.
-- 📫 How to reach me: givingwu@gmail.com, @givingwu
+欢迎来到我的 GitHub！这里主要记录我在 **Web 开发 / 微前端**、**自动化交易**、以及 **Rust & Blockchain** 方面的探索与实践。
+
+## 🚀 我在做什么
+
+- **学习方向**：英语、Rust、区块链
+- **当前重点**：加密货币自动化交易
+- **擅长领域**：Web 开发、微前端等
+
+## 📌 关注主题
+
+- 自动化交易策略与风控
+- 交易系统的工程化（数据、回测、部署）
+- Rust 生态下的高性能工程
+- 前端工程化 / 微前端架构
+
+## 🧩 项目与仓库概览
+
+> 下面的仓库是我当前最关注的方向，后续会持续整理与完善。
+
+- **自动化交易**：策略研究、数据处理、执行与监控
+- **Web / 微前端**：工程化实践、组件化、可维护架构
+- **Rust & Blockchain**：系统编程、链上生态的实验与学习
+
+## 📬 联系方式
+
+- Email：givingwu@gmail.com
+- GitHub：@givingwu
+
+## 📊 GitHub 统计
 
 ![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=givingwu&show_icons=true)
 
-![Gavin's Most used languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=givingwu)
+![Gavin's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=givingwu)
 
-🚀🚀🚀🚀🚀
+---
+
+🚀 如果你对上述主题感兴趣，欢迎一起交流！
