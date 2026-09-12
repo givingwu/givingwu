@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="500" viewBox="0 0 640 500" role="img" aria-labelledby="title desc">
+  <title id="title">givingwu — Make complexity useful.</title>
+  <desc id="desc">AI workflows, frontend systems, and native tools. Automate, compose, deliver.</desc>
+  <rect width="640" height="500" rx="20" fill="#111c19"/>
+  <path d="M38 47h20" stroke="#dcff8f" stroke-width="5"/>
+  <text x="75" y="55" fill="#f2f4e8" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" letter-spacing="1.5">givingwu</text>
+  <g stroke-linejoin="round" stroke-width="2">
+    <path d="m530 74 34-16 34 16-34 16Z" fill="#21372b" stroke="#6c8954"/>
+    <path d="m530 60 34-16 34 16-34 16Z" fill="#2e4932" stroke="#a8cb72"/>
+    <path d="m530 46 34-16 34 16-34 16Z" fill="#dcff8f" stroke="#dcff8f"/>
+  </g>
+  <text x="35" y="154" fill="#f2f4e8" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="700" letter-spacing="-2">Make complexity</text>
+  <text x="33" y="246" fill="#dcff8f" font-family="Georgia, 'Times New Roman', serif" font-size="105" font-style="italic">useful.</text>
+  <g fill="#b6c3b8" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="1">
+    <text x="40" y="307">AI WORKFLOWS / FRONTEND SYSTEMS</text>
+    <text x="40" y="341">NATIVE TOOLS</text>
+  </g>
+  <path d="M38 380h564" stroke="#34473a"/>
+  <text x="40" y="422" fill="#dcff8f" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1.2">AUTOMATE · COMPOSE · DELIVER</text>
+  <text x="40" y="466" fill="#b6c3b8" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">ALL IN AI + CRYPTO</text>
+</svg>
