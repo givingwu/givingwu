@@ -20,5 +20,3 @@ From code review automation to chat SDKs and macOS utilities, I turn recurring p
 ## 🤝 Let's build something useful
 
 Let's connect over **new ideas, useful tools, and interesting problems**. **[💬 Connect on X ↗](https://x.com/giving_wu)** · [✍️ Read my blog](https://givingwu.github.io/) · [💻 Browse all repositories](https://github.com/givingwu?tab=repositories)
-
-> 富在术数，不在劳身。利在势局，不在力耕。 —《盐铁论》
